@@ -12,4 +12,5 @@ use the ```isvarname()``` function to check the legitimacy of the following vari
 |  fred#  |   fred$   |  fred%   |   fred&   |  fred*   |
 |  fred-  |   fred+   |  fred''  |   fred.   |  fred;   |
 |  fred,  |   fred:   |  fred?   |   fred/   |  fred\   |
+
 if 0 is returned then the variable name is not legitimate and if 1 is returned the variable name is legitimate.
