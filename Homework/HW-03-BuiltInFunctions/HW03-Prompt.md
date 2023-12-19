@@ -8,6 +8,7 @@ where:
 | **P_0** |  **original population**   |
 |  **r**  | **continuous growth rate** |
 |  **t**  |          **time**          |
+
 If you originally have 100 rabbits that breed at a continuous growth rate of 90% per year, find how many rabbits 
 you will have at the end of 10 years.
 ### Problem 2:
