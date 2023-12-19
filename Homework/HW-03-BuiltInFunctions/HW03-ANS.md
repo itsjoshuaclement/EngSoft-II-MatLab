@@ -1,6 +1,6 @@
 # Homework 3 code explanation
 ### goes over the code for homework 3
-```m
+```cpp
 clear all;   
 clc;          
 close all;    
@@ -12,7 +12,7 @@ The section between ```%%``` and ```%``` ``Author(s): ...`` is a comment section
 ```close all``` closes all open figure windows.
 ```format short``` sets the display format to MATLAB's default short format.
 ## Problem 1
-```m
+```cpp
 r = 0.9;
 t = 10;
 originalpop = 100;
@@ -23,7 +23,7 @@ fprintf('In 10 years you will have %.0f rabbits\n', currentpop)
 ```currentpop = originalpop * exp(r * t)``` calculates the current population using the formula provided.
 ```fprintf('In 10 years you will have %.0f rabbits\n', currentpop)``` prints the current population to the command window.
 ## Problem 2
-```m
+```cpp
 num1 = 10000; 
 num2 = 20000; 
 v = num1:num2; 
@@ -37,7 +37,7 @@ length(y)
 ```fprintf('The number of primes between %d and %d are:', num1, num2);``` prints the number of primes between ```num1``` and ```num2```.
 ```length(y)``` prints the number of primes between ```num1``` and ```num2```.
 ## Problem 3
-```m
+```cpp
 C = [68 83 61 70 75 82 57 5 76 85 62 71 96 78 76 68 72 75 83 93];
 themean = mean(C); 
 themedian = median(C);
@@ -55,7 +55,7 @@ thelength)
 ```thestd = std(C)``` calculates the standard deviation of the vector.
 ```thelength = length(C)``` calculates the length of the vector.
 ```sort(C)``` sorts the vector in ascending order.
-```m
+```cpp
 fprintf(['Mean %2.1f, Median %2.0f, Mode %2.0f, STD %2.4f, and Length %2.0f'], themean, themedian, themode, thestd, 
 thelength)
 ``` 
