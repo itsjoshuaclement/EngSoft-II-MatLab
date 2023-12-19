@@ -1,6 +1,6 @@
 # Homework 2 code explanation
 ### goes over the code for homework 2
-```m
+```cpp
 %% 
 % Author(s): Joshua Clement
 % Date: 19-Jan-2023
@@ -16,7 +16,7 @@ The section between ```%%``` and ```%``` ``Author(s): ...`` is a comment section
 ```close all``` closes all open figure windows.
 ```format short``` sets the display format to MATLAB's default short format.
 ## Problem 1
-```m
+```cpp
 a = 4.5; b = 6; angle35 = 35;
 c = sqrt(a^2 + b^2 - 2*a*b*cosd(angle35))
 s= (a+b+c)/2; % half the perimeter
@@ -27,7 +27,7 @@ The line ```c = sqrt(a^2 + b^2 - 2*a*b*cosd(angle35))``` calculates the length o
 ```s = (a+b+c)/2``` calculates half the perimeter of the triangle.
 ```area = sqrt(s*(s-a)*(s-b)*(s-c))``` computes the area of the triangle using Heron's formula.
 ## Problem 2
-```m
+```cpp
 D = 400; g = 32.2; angle45 = 45; 
 V = sqrt(1/2*g*D/(cosd(angle45)*sind(angle45)))
 angle_vector = [15 30 45 60 75];
@@ -38,7 +38,7 @@ V_vec = sqrt(1/2*g*D./(cosd(angle_vector).*sind(angle_vector)))
 ```angle_vector``` is an array containing angles for a brief experiment.
 ```V_vec = sqrt(1/2*g*D./(cosd(angle_vector).*sind(angle_vector)))``` calculates initial velocities for different launch angles.
 ## Problem 3
-```m
+```cpp
 h = 6; r = 1; pounds = 8; gallons = 7.5;
 V_cone = (1/3)*pi*r^2*h; 
 V_hem = (2/3)*pi*r^3;   
