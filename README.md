@@ -2,6 +2,8 @@
 ### TEMP readme
 This is here to help students/contribute to self-learning and exploration into code! 
 
+we should have a math course. I'm going to download my calc 3 and linear textbooks so we can read them later. and develop a course
+
 ## about the course
 in this course there is two main folders you will see. **Labs**, and **Homework**.
 
