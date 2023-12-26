@@ -40,5 +40,5 @@ Use an array to calculate V for
 
 If an ice cream cone is ```6 inches``` tall, and its rim has a diameter of ```2 inches```, write a script to determine the weight of
 the ice cream that can fit in the cone, assuming that the ice cream above the cone is a perfect hemisphere. You may neglect
-the thickness of the cone material. Assume that a gallon of ice cream weighs ```8 pounds``` and ```7.5 gallons  occupy 1 cubic foot```.
+the thickness of the cone material. Assume that a gallon of ice cream weighs ```8 pounds``` and ```7.5 gallons occupy 1 cubic foot```.
 The volume of a cone is ```V = (1/3)*pi*(r^2)*h``` and the volume of a hemisphere is half that of a sphere.
