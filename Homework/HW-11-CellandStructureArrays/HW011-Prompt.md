@@ -2,7 +2,7 @@
 # Problem 1 
 
 >\[!IMPORTANT]\
-> set up a script for this homework. Within that script, call to and write a MATLAB
+> Set up a script for this homework. Within that script, call to and write a MATLAB
 function
 
 a. that function will take in `three` numeric parameters. 
@@ -25,8 +25,8 @@ The function should return a structure with the following fields:
 
 b. Write a function that displays a date in the form `Mar 30, 2007`
 
-c. Write a function that will take in `three` date structures. The function should
-return `true` if the second $date_2$ is between the first and third $date_{1,3}$, otherwise the
+c. Write a function that will take in `three` data structures. The function should
+return `true` if the second $date_2$ is between the first and third $date_{1,3}$, otherwise, the
 function should return `false`. 
 
 $$
