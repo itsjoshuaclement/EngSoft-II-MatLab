@@ -14,7 +14,7 @@ Your function should return a logical value, true or false.
 [**`mod(x,y)`**](https://www.mathworks.com/help/matlab/ref/mod.html) gives the remainder when `x` is divided by `y`. And assume that both numbers are positive.
 
 # Problem 2
-Write a function that takes in an array of numbers and return the
+Write a function that takes in an array of numbers and returns the
    sum and average of the array in that order.
 
 > [!NOTE]
