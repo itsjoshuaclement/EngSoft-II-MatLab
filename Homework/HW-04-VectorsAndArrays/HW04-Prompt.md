@@ -1,6 +1,6 @@
 # Problem 1
 1. Construct a vector containing all the even numbers between ```6``` and ```33```.
-2. Construct a vector containing every third number starting with ```8``` and ending at ```38```.
+2. Construct a vector containing every third number starting with ```8``` and ending with ```38```.
 3. Construct a vector containing numbers starting at 20 and counting backward by ```1``` to ```10```.
 4. Construct a vector containing ```100``` evenly spaced values between ```0``` and ```2π```.
 5. Construct a vector containing ```15``` elements, all of which are zeros.
@@ -24,7 +24,7 @@
 
 # Problem 3
 You are given a vector, and you wish to normalize the vector by computing a new
-vector, that will contain the values of the vector on linear scale from ```0``` to ```100```. A ```0``` still corresponds
+vector, that will contain the values of the vector on a linear scale from ```0``` to ```100```. A ```0``` still corresponds
 to a ```0```, and ```100``` will correspond to ```100```.'
 
 > \[!NOTE]\
@@ -63,7 +63,7 @@ Take a vector of numbers, ```A```, and return a new vector ```B```, containing t
 # Problem 5
 Combine two arrays, sort them, and then return a new array of a specified size.
    
-**A:** a 2-D array of any size
+**A:** A 2-D array of any size
 
 **B:** another 2-D array that may be a different size from ```A```
 
