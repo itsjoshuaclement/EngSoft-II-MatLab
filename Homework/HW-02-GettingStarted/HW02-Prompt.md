@@ -12,7 +12,7 @@ where **`a`** and **`b`** are the lengths of the sides and **`C`** is the angle 
 find the length of the third side and the area of the triangle.
 
 > \[!TIP]\
-> know the law of cosines and the formula for the area of a triangle.
+> Know the law of cosines and the formula for the area of a triangle.
 
 # Problem 2:
 
@@ -41,5 +41,5 @@ the ice cream that can fit in the cone. Assume that a gallon of ice cream weighs
 The volume of a cone is $V = (1/3)πr^2h$ and the volume of a hemisphere is half that of a sphere.
 
 > \[!NOTE]\
-> assume that the ice cream above the cone is a perfect hemisphere, and neglect
+> Assume that the ice cream above the cone is a perfect hemisphere, and neglect
 the thickness of the cone material
