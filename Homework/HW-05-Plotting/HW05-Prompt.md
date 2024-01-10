@@ -20,7 +20,7 @@ graph a sine function four times between the interval
 |:-------------:|
 
 **on the same graph.** The start and stop values should be parameters of the function. The number of
-points per interval will vary. Make sure to add a legend, title, and label the  axes. Make sure that each line has a different color.
+points per interval will vary. Make sure to add a legend, title, and label the axes. Make sure that each line has a different color.
 
 Test your script with the following intervals:
 
@@ -29,7 +29,7 @@ $$ \begin{bmatrix}
 \end{bmatrix} $$
 
 > \[!IMPORTANT]\
-> final submission use
+> Final submission use
 > 
 > | [0, 16π] |
 > |:--------:|
