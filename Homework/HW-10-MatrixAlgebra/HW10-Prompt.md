@@ -2,7 +2,7 @@
 >\[!NOTE]\
 This is a set of simple matrix manipulations.
 
-a. Create a five by six matrix, $A$, that contains random numbers between `0` and `10`.
+a. Create a five-by-six matrix, $A$, that contains random numbers between `0` and `10`.
 
 $$ A = \begin{bmatrix}
 x_1 & x_2 & x_3 & x_4 & x_5 \\
@@ -13,7 +13,7 @@ x_{21} & x_{22} & x_{23} & x_{24} & x_{25} \\
 x_{26} & x_{27} & x_{28} & x_{29} & x_{30} \\
 \end{bmatrix} $$
 
-b. Create a six by five matrix, $B$, that contains random numbers between `0` and `10`.
+b. Create a six-by-five matrix, $B$, that contains random numbers between `0` and `10`.
 
 $$ B = \begin{bmatrix}
 x_1 & x_2 & x_3 & x_4 & x_5 & x_6 \\
@@ -50,4 +50,4 @@ Make a new currency called the $Eullar$, it is defined by the following:
 `1` dollar and `2` Euros make `20` $Eullar$.
 
 >\[!IMPORTANT]\
-> find out the value of a dollar in terms of $Eullar$.
+> Find out the value of a dollar in terms of $Eullar$.
