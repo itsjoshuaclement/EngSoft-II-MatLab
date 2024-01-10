@@ -49,14 +49,14 @@ $$
 $$
 
 >\[!NOTE]\
-   To evaluate this function, your previously defined $x$ vector.
+   To evaluate this function, use your previously defined $x$ vector.
 
    c) Repeat part `a`, but set up an $x$ vector with a `new name` that goes from $-5$ to $+5$, going up by
    $0.1$. Review and compare parts `a` and `b` and parts `c` and `b`.
 
 >\[!CAUTION]\
 **NO** need for any code, make
-   the comparison observation for your own understanding.
+   the comparison observation for your understanding.
 
 # Problem 3
 Consider the following data:
