@@ -14,7 +14,7 @@ other values.
 −300 & 2 & 5 & −63 & 4 & 0 & −46 \\
 \end{bmatrix} $$
 > 
-> the result should be: 
+> The result should be: 
 > 
 > $$ B = \begin{bmatrix}
 false & true & true & false & true & true & false \\
@@ -25,7 +25,7 @@ false & true & true & false & true & true & false \\
 it’s OK to have logical *0's* and *1's* and not the words
 *“true”* or *“false”*
 
-b. **Repeat** the previous problem(a), but with a `while` loop inplace of a `for` loop.
+b. **Repeat** the previous problem(a), but with a `while` loop in place of a `for` loop.
 
 c. Iterate through a `logical array`, $N$, using a `for` loop, and return a new vector, $M$,
 containing the value `2` wherever an element of $N$ is `true` and the value `−1` wherever $N$ is false. 
@@ -36,7 +36,7 @@ containing the value `2` wherever an element of $N$ is `true` and the value `−
 true & false & false & true & true & false & true \\
 \end{bmatrix} $$
 >
-> the result should be:
+> The result should be:
 >
 > $$ M = \begin{bmatrix}
 2 & −1 & −1 & 2 & 2 & −1 & 2 \\
@@ -52,7 +52,7 @@ d. Iterate through an `array`, $Z$, using a `while` loop. Replace every element 
 4 & 3 & 2 & 5 & 7 & 9 & 0 & 64 & 34 & 43 \\
 \end{bmatrix} $$
 >
-> the result should be:
+> The result should be:
 >
 > $$ Z = \begin{bmatrix}
 3 & 3 & 3 & 3 & 3 & 3 & 3 & 64 & 34 & 43 \\
@@ -64,7 +64,7 @@ a binary number and return its decimal equivalent until an illegal number (one c
 is entered. 
 
 The number entered should contain only the digits `0` and `1`. The rightmost digit has the value $2^0$ and
-   the digit $N$ places to the left of that has the value $2^N$
+   the digit $N$ placed to the left of that has the value $2^N$
 
 > \[!NOTE]\
 > entering:
@@ -90,7 +90,7 @@ The number entered should contain only the digits `0` and `1`. The rightmost dig
 
 generate a random $(x,y)$ coordinate. Think about the sum of squares of those
    coordinates. What value would indicate, `inside` the quarter circle? What value
-   would indicate `outside`. `Divide` the number of random points inside
+   would indicate `outside`? `Divide` the number of random points inside
    the circle by the number of total points, Which estimates the area of the quarter circle.
 `Iterate` this about $100,000$ times to estimate for $π$.
 
