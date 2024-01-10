@@ -9,10 +9,10 @@ where:
 |  **$r$**  | **continuous growth rate** |
 |  **$t$**  |          **time**          |
 
-you originally have 100 rabbits that breed at a continuous growth rate of 90% per year, find how many rabbits 
-you will have at the end of 10 years.
+you originally have `100` rabbits that breed at a continuous growth rate of `90%` per year, find how many rabbits 
+you will have at the end of `10 years`.
 # Problem 2:
-In cryptography very large prime numbers are used. How many prime numbers are there between 10,000 and 20,000? 
+How many prime numbers are there between 10,000 and 20,000? 
 
 # Problem 3:
 
