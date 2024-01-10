@@ -16,7 +16,7 @@ An image could be scrambled by doing the following in order:
 >
 >c. The red values are swapped with the green values.
 >
->d. The blue values are flipped left to right.
+>d. The blue values are flipped from left to right.
 
 Make a function that would take in an image array and a string. If the string is
 equal to '`scramble`', your function should `scramble` the image according to the above method and return
